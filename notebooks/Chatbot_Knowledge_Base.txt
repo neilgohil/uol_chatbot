@@ -1,9 +1,18 @@
+Assignment
+Log into Blackboard, click on a specific module and click on the “Assessments” tab on the left sidebar then on “Assignment Documents”. 
+Here you access assignment brief’s and CRG’s, submission areas and resit documentation. Check the “Hand In Dates” spreadsheet, located in “Assignment Deadlines”, to find out when assignments are due and what day the marks are to be released.
+
+
 Assignments
 Log into Blackboard, click on a specific module and click on the “Assessments” tab on the left sidebar then on “Assignment Documents”. 
 Here you access assignment brief’s and CRG’s, submission areas and resit documentation. Check the “Hand In Dates” spreadsheet, located in “Assignment Deadlines”, to find out when assignments are due and what day the marks are to be released.
 
 
 Attendance
+Your lecturer will provide an attendance code that you are to enter in the attendance page located on Blackboard. Your attendance is monitored for every session. If your attendance rate is low you will receive a warning to improve your attendance. To submit absence requests, click on the Absence Requests section on your Timetable page. Fill in the details to submit your absence requests.
+
+
+Attendance Codes
 Your lecturer will provide an attendance code that you are to enter in the attendance page located on Blackboard. Your attendance is monitored for every session. If your attendance rate is low you will receive a warning to improve your attendance. To submit absence requests, click on the Absence Requests section on your Timetable page. Fill in the details to submit your absence requests.
 
 
@@ -19,6 +28,10 @@ Campus
 The are on which a university is based, which includes its buildings. The university has several campuses, in addition to the main Brayford Pool campus in the centre of the city: Riseholme Campus just north of the city and Holbeach campus in the south of the county.
 
 
+Candidate Numbers
+Your candidate number can be found on your ID card and timetable, it begins with the first three letters of your surname followed by 8 numbers.
+
+
 Candidate Number
 Your candidate number can be found on your ID card and timetable, it begins with the first three letters of your surname followed by 8 numbers.
 
@@ -27,12 +40,28 @@ Careers
 From Blackboard, click “My Careers” at the top. Here you access the “Careers & Employability” department that offers recruitment tools and support to find jobs, placements etc. They are open Monday to Friday 09:00-16:00.
 
 
+Career
+From Blackboard, click “My Careers” at the top. Here you access the “Careers & Employability” department that offers recruitment tools and support to find jobs, placements etc. They are open Monday to Friday 09:00-16:00.
+
+
 Contact
+If you are unsure who to contact, get in touch with the School of Computer Science office. You can contact a member of staff by email. The staff directory includes their email addresses. To contact support services, contact via the “My Support Services” section on Blackboard.
+
+
+Contacts
 If you are unsure who to contact, get in touch with the School of Computer Science office. You can contact a member of staff by email. The staff directory includes their email addresses. To contact support services, contact via the “My Support Services” section on Blackboard.
 
 
 Disseration
 A dissertation is an extended piece of writing on a subject of your choice. Not all courses require you t write dissertations, and the length of a dissertation varies from course to course. If you do you have to write a dissertation, you will be assigned a dissertation tutor who will support and guide you throughout the process.
+
+
+Disserations
+A dissertation is an extended piece of writing on a subject of your choice. Not all courses require you t write dissertations, and the length of a dissertation varies from course to course. If you do you have to write a dissertation, you will be assigned a dissertation tutor who will support and guide you throughout the process.
+
+
+Deadline
+You should aim to complete your assignment work before the deadline. Otherwise you will face a 10% penalty for every working day that your assignment is late.  Check the “Hand In Dates” spreadsheet, located in “Assignment Deadlines”, to find out when assignments are due and what day the marks are to be released.
 
 
 Deadlines
@@ -43,7 +72,15 @@ Degree
 A degree is what a university student studies towards at university and achieves at graduation. It is an official qualification and a degree can be at an undergraduate (BA/BSc/BEng) or postgraduate (MA) level. Undergraduate degrees can usually be achieved after three years of study, whilst a Master’s degree can be achieved after one or two years of study, following on from an undergraduate degree.
 
 
+Degrees
+A degree is what a university student studies towards at university and achieves at graduation. It is an official qualification and a degree can be at an undergraduate (BA/BSc/BEng) or postgraduate (MA) level. Undergraduate degrees can usually be achieved after three years of study, whilst a Master’s degree can be achieved after one or two years of study, following on from an undergraduate degree.
+
+
 Drop In Session
+These are optional sessions, which you can attend all or part of, to ask questions and receive support.
+
+
+Drop In Sessions
 These are optional sessions, which you can attend all or part of, to ask questions and receive support.
 
 
@@ -51,8 +88,21 @@ Email
 University staff will only use students’ official University of Lincoln email address, not external personal email addresses. Students are expected to check their email twice a day and set up a notification system in order to not miss vital information. The staff directory includes their email addresses.
 
 
+Emails
+University staff will only use students’ official University of Lincoln email address, not external personal email addresses. Students are expected to check their email twice a day and set up a notification system in order to not miss vital information. The staff directory includes their email addresses.
+
+
+Extenuating Circumstance
+Applications for Extenuating Circumstances can be submitted if you have not been able to apply for an extension and there is a factor that may have affected your ability to attain at your best. These are submitted online and are processed centrally. You need to provide date relevant evidence for any claim. They do not allow adjustments to your original mark; they allow you a second chance at an assessment without it counting as a resit.
+
+
 Extenuating Circumstances
 Applications for Extenuating Circumstances can be submitted if you have not been able to apply for an extension and there is a factor that may have affected your ability to attain at your best. These are submitted online and are processed centrally. You need to provide date relevant evidence for any claim. They do not allow adjustments to your original mark; they allow you a second chance at an assessment without it counting as a resit.
+
+
+
+Extension
+Extensions must be applied for three working days before the original assessment deadline. You must provide legitimate evidence to backup your request. Further details can be found by clicking on “School of Computer Science” under the course ID panel. On the left sidebar click “Useful Documents” then Extension Documentation. Here, you access the request form and guidelines. Extension requests must be sent to “socsextensions@lincoln.ac.uk”. Extensions cannot be made for TCA’s (Time Constricted Assignments).
 
 
 Extensions
@@ -67,15 +117,31 @@ Fresher
 A fresher is a first year university student. Freshers events take place on the first week of the academic year.
 
 
+Freshers
+A fresher is a first year university student. Freshers events take place on the first week of the academic year.
+
+
+Grade
+Your grades can be found under the module page, then on the left sidebar click “My Grades”. Contact the module coordinator for further queries. Grades will be published at 16:00 on release day of the mark. Check the “Hand In Dates” spreadsheet, located in “Assignment Deadlines”, to find out when assignments are due and what day the marks are to be released.
+
+
 Grades
 Your grades can be found under the module page, then on the left sidebar click “My Grades”. Contact the module coordinator for further queries. Grades will be published at 16:00 on release day of the mark. Check the “Hand In Dates” spreadsheet, located in “Assignment Deadlines”, to find out when assignments are due and what day the marks are to be released.
 
 
 Graduation
-Your graduation is the culmination of all your hard work and is a ceremony that takes place at the Lincoln Cathedral where you are presented with your degree certificate
+Your graduation is the culmination of all your hard work and is a ceremony that takes place at the Lincoln Cathedral where you are presented with your degree certificate.
+
+
+Graduations
+Your graduation is the culmination of all your hard work and is a ceremony that takes place at the Lincoln Cathedral where you are presented with your degree certificate.
 
 
 Grant
+A grant is a form of financial aid that is given to students that meet specific criteria. Unlike a loan, a grant (or bursary) does not need to be paid back. When applying for student finance you can select to share your financial date with the university. This will automatically allow the university to see if you fit any of the criteria enabling you to receive a grant.
+
+
+Grants
 A grant is a form of financial aid that is given to students that meet specific criteria. Unlike a loan, a grant (or bursary) does not need to be paid back. When applying for student finance you can select to share your financial date with the university. This will automatically allow the university to see if you fit any of the criteria enabling you to receive a grant.
 
 
@@ -91,8 +157,20 @@ Internships
 Contact or visit the “Careers & Employability” department to inquire about placements and internships. They will provide support on finding placements, how to apply for them, improving your CV, mock interviews, etc. They are open Monday to Friday 09:00-16:00 and have drop in sessions.
 
 
+Internship
+Contact or visit the “Careers & Employability” department to inquire about placements and internships. They will provide support on finding placements, how to apply for them, improving your CV, mock interviews, etc. They are open Monday to Friday 09:00-16:00 and have drop in sessions.
+
+
+Lecture
+Currently lectures are online due to the pandemic. Lectures can be watched live and are recorded for future playback. They are presented on Microsoft Teams. The lecture material on Blackboard, will have a links to the lecture and workshops recordings.
+
+
 Lectures
 Currently lectures are online due to the pandemic. Lectures can be watched live and are recorded for future playback. They are presented on Microsoft Teams. The lecture material on Blackboard, will have a links to the lecture and workshops recordings.
+
+
+Library
+The library is open 24 hours to study in, the help desk is open from 08:30-16:50. You can access the library from the Blackboard homepage. You can search for books and articles online, view and request access to their availability. The library hosts events, drop in sessions and workshops.
 
 
 Library
@@ -107,12 +185,28 @@ Module
 Each course is made up of modules, these are different topics that are essential to your learning that make up a percentage of your degree. They can be worth 15, 30 or even 45 credits. In your second and third year, you will have more choice over what modules you study.
 
 
+Modules
+Each course is made up of modules, these are different topics that are essential to your learning that make up a percentage of your degree. They can be worth 15, 30 or even 45 credits. In your second and third year, you will have more choice over what modules you study.
+
+
 Password
+If you have forgotten your password, click the “Forgot your password” link on the login page and follow the steps to recover or change your password.
+
+
+Passwords
 If you have forgotten your password, click the “Forgot your password” link on the login page and follow the steps to recover or change your password.
 
 
 Personal Tutor
 Your personal tutor is an academic member of staff for your course and is there to support and guide you through your studies and answer any queries you may have. Roughly once a term you will have a personal tutor meeting which is like an update where they will check on your progress and you can speak to them about any worries you might have. You can contact them at any time via email as they are your personal tutor.
+
+
+Personal Tutor
+Your personal tutor is an academic member of staff for your course and is there to support and guide you through your studies and answer any queries you may have. Roughly once a term you will have a personal tutor meeting which is like an update where they will check on your progress and you can speak to them about any worries you might have. You can contact them at any time via email as they are your personal tutor.
+
+
+Placement
+Placements are a great way to improve your future employability. They can vary in length from a single day to a year and can be either paid or unpaid. Contact or visit the “Careers & Employability” department to inquire about placements and internships. They will provide support on finding placements, how to apply for them, improving your CV, mock interviews, etc. They are open Monday to Friday 09:00-16:00 and have drop in sessions.
 
 
 Placements
@@ -121,6 +215,11 @@ Placements are a great way to improve your future employability. They can vary i
 
 Plagiarism 
 Plagiarism is when you copy somebody else’s work without giving them credit or try to pass off another person’s thoughts, ideas, writings or images as one’s own. Plagiarism is easily detected in assignments as most assignments are submitted through Turnitin which provides a plagiarism percentage to see how much of your work is not you own.
+
+
+
+References
+Referencing is when you cite which book, journal article or other sources you found a particular quote from when writing an essay. If you don’t do this, it would seem that you were claiming the quote as your own and this would be considered as plagiarism.
 
 
 Referencing
@@ -139,8 +238,16 @@ Reserve
 Books and resources can be reserved online by logging on to the library website. Students can have four concurrent reservations at a time. You will receive a notice to your student email account when the item is ready for collection. You then have 3 days from the date on the email to collect your reservation. 
 
 
+Resit
+If you have failed, scored under 40 for a module, you will have to resit the module. Resits take place in August and if you pass the resit, your mark will capped at 40% (a pass mark). 
+
+
 Resits
 If you have failed, scored under 40 for a module, you will have to resit the module. Resits take place in August and if you pass the resit, your mark will capped at 40% (a pass mark). 
+
+
+Semester
+Your academic year at university is split into two semesters- September to Christmas and Christmas to the summer. Normally you will be required to complete an assignment for each module every semester.
 
 
 Semester
@@ -155,6 +262,10 @@ Student Union
 The SU is run by a dedicated team of ex-students so they know exactly what students want and need. They are almost like the student government of the university, and they implement changes that need to be made. They listen to suggestions made by students and make sure they happen. The SU also has its own venues, the Tower Bar, the Swan and the Engine Shed.
 
 
+Society
+Societies are a great way of making new friends at university are strongly recommended to get involved with. There is a societies fair at the start of the term, where you can browse the societies available. There is definitely a society for everyone, and you can create your own society if you can’t find one you like. Societies are completely separate from your course and are a lot of fun. 
+
+
 Societies
 Societies are a great way of making new friends at university are strongly recommended to get involved with. There is a societies fair at the start of the term, where you can browse the societies available. There is definitely a society for everyone, and you can create your own society if you can’t find one you like. Societies are completely separate from your course and are a lot of fun. 
 
@@ -163,8 +274,23 @@ Submissions
 PDF files should solely be submitted to the Turnitin submission area. Any other files to submit should be compressed into a zip file and submitted to the supporting documents area. Assignment deadlines can be viewed by clicking on the “Assignment Deadlines”.
 
 
+Submission
+PDF files should solely be submitted to the Turnitin submission area. Any other files to submit should be compressed into a zip file and submitted to the supporting documents area. Assignment deadlines can be viewed by clicking on the “Assignment Deadlines”.
+
+
 Support
 The university has multiple support services which can be accessed by clicking “My Support Services”. These include the Student Support Centre, Financial Support, Wellbeing Centre, etc. Contact support services if you need to. All support services are open Monday to Friday from 08:30. You can access any of these services by clicking on them. There are also drop in sessions with an advisor with an advisor from 12:00-14:00 Monday-Wednesday and Friday, and 17:00-19:00 on Thursdays.  
+
+
+Term Date
+Dates are the following for 2020-2021:
+Online Orientation Week: Monday 5th October 2020 - Friday 9th October 2020
+Holiday:                            Monday 21st December 2020 - Friday 3rd January 2021
+Examinations:                  Monday 1st February 2021 - Friday 12th February 2021
+Holiday:                            Monday 29th March 2021 - Friday 11th April 2021
+Examinations:                  Monday 24th May 2021 - Friday 11th June 2021
+Resits:                             Monday 16th August 2021 - Friday 27th August 2021
+Graduation:                     Monday 6th September 2021 - Friday 9th September 2021
 
 
 Term Dates
@@ -178,6 +304,9 @@ Resits:                             Monday 16th August 2021 - Friday 27th August
 Graduation:                     Monday 6th September 2021 - Friday 9th September 2021
 
 
+Timetables
+Your timetable can be accessed from Blackboard and will display you timetable for your academic year. Here you make any timetabling queries and fill out absence requests. You can also view on an online map of the campus to help navigate your way.
+
 
 Timetable
 Your timetable can be accessed from Blackboard and will display you timetable for your academic year. Here you make any timetabling queries and fill out absence requests. You can also view on an online map of the campus to help navigate your way.
@@ -188,6 +317,10 @@ Refers to both your physical and metal health. Tutors and staff at university wi
 
 
 Workshops
+Currently workshops are online due to the pandemic. Workshops can be watched live and are recorded for future playback. They are presented on Microsoft Teams. The workshop material on Blackboard, will have a links to the lecture and workshops recordings.
+
+
+Workshop
 Currently workshops are online due to the pandemic. Workshops can be watched live and are recorded for future playback. They are presented on Microsoft Teams. The workshop material on Blackboard, will have a links to the lecture and workshops recordings.
 
 
